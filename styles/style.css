@@ -31,7 +31,7 @@ ul {
 
 ul li::before {
   content: "\2022";
-  color: grey;
+  color: #bfbfbf;
   margin-left: -10px;
   position: absolute;
 }
